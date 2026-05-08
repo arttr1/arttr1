@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Artem 👋</h1>
 
 <p align="center">
-  <strong>DS/ML student & AI intern from Moscow 🇷🇺</strong>
+  <strong>DS/ML student & AI intern from Kamchatka ❄️🇷🇺</strong>
 </p>
 
 ---
