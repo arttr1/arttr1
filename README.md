@@ -69,7 +69,7 @@
 <details>
   <summary>Click to expand</summary>
 
-  - **school21 ML series** — supervised/unsupervised ML projects (regression, classification, clustering, NLP) ([repos](https://github.com/arttr1?tab=repositories&q=school21))
+  - **school21 ML series** — supervised/unsupervised ML projects (regression, classification, clustering, NLP) ([repos](https://github.com/arttr1?tab=repositories&q=school21_ml))
   - **my_first_rag** — RAG system built with LangChain ([repo](https://github.com/arttr1/my_first_rag))
   - **gazprom_hackathon** — full-stack ML solution (Python + TypeScript + Docker) ([repo](https://github.com/arttr1/gazprom_hachathon))
   - **claude_coding_mentor** — Claude Code skills for DS/programming learning ([repo](https://github.com/arttr1/claude_coding_mentor))
