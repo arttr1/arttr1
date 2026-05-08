@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Artem 👋</h1>
 
 <p align="center">
-  <strong>DS/ML student & AI intern from Kamchatka ❄️🇷🇺</strong>
+  <strong>DS/ML student & AI intern from Moscow 🇷🇺</strong>
 </p>
 
 ---
@@ -75,6 +75,9 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arttr1&show_icons=true&theme=dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arttr1&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=arttr1&theme=dark&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arttr1&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arttr1&theme=dark" />
 </p>
