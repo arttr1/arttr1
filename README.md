@@ -17,22 +17,23 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/LANGCHAIN-0.2-1C3C3C?style=flat-square&logo=langchain&logoColor=white&labelColor=3d3d3d" />
+  <img src="https://img.shields.io/badge/LANGGRAPH-0.2-1C3C3C?style=flat-square&logo=langchain&logoColor=white&labelColor=3d3d3d" />
   <img src="https://img.shields.io/badge/MATPLOTLIB-3.9-11557C?style=flat-square&logo=matplotlib&logoColor=white&labelColor=3d3d3d" />
   <img src="https://img.shields.io/badge/DOCKER-26.1-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=3d3d3d" />
   <img src="https://img.shields.io/badge/POSTGRESQL-16-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=3d3d3d" />
   <img src="https://img.shields.io/badge/GIT-2.45-F05032?style=flat-square&logo=git&logoColor=white&labelColor=3d3d3d" />
 </p>
 <p align="center">
+  <img src="https://img.shields.io/badge/SQLITE-3.45-003B57?style=flat-square&logo=sqlite&logoColor=white&labelColor=3d3d3d" />
   <img src="https://img.shields.io/badge/C-11-A8B9CC?style=flat-square&logo=c&logoColor=white&labelColor=3d3d3d" />
   <img src="https://img.shields.io/badge/JAVA-21-007396?style=flat-square&logo=java&logoColor=white&labelColor=3d3d3d" />
-  <img src="https://img.shields.io/badge/TYPESCRIPT-5.0-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=3d3d3d" />
 </p>
 
 ---
 
 ### 🎓 Education
 
-- **Applied Informatics (DS track)** at RTU MIREA (ongoing)
+- **Computer Science and Engineering** at RTU MIREA (ongoing)
 - **Advanced Programming & Data Science** at Sber's School 21 (ongoing)
 
 ---
@@ -55,6 +56,7 @@
 ### 📬 How to Reach Me
 
 - Email: arttr170bu@gmail.com
+- Telegram: [@ArtTr12](https://t.me/ArtTr12)
 
 ---
 
