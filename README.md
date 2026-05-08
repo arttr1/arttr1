@@ -38,6 +38,7 @@
 
 - **Computer Science and Engineering** at RTU MIREA (ongoing)
 - **Advanced Programming & Data Science** at Sber's School 21 (ongoing)
+- **Deep Learning School** at [SAMCS](https://dls.samcs.ru/) (ongoing)
 
 ---
 
