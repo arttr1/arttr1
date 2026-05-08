@@ -75,7 +75,7 @@
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=arttr1&theme=dark&hide_border=true" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arttr1&theme=dark&v=2" />
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arttr1&theme=dark&v=2" />
