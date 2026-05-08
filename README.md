@@ -75,9 +75,9 @@
 ---
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arttr1&theme=dark&v=2" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arttr1&theme=default&v=2" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arttr1&theme=dark&v=2" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arttr1&theme=dark&v=2" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arttr1&theme=default&v=2" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arttr1&theme=default&v=2" />
 </p>
