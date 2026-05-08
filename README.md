@@ -73,6 +73,7 @@
   - **my_first_rag** — RAG system built with LangChain
   - **gazprom_hackathon** — full-stack ML solution (Python + TypeScript + Docker)
   - **claude_coding_mentor** — Claude Code skills for DS/programming learning
+  - **DLS** — Deep Learning School homeworks and projects ([repo](https://github.com/arttr1/DLS))
 
 </details>
 
