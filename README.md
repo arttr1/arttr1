@@ -9,9 +9,9 @@
 ### My stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PYTHON-3.12-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=3d3d3d" />
-  <img src="https://img.shields.io/badge/PANDAS-2.2-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=3d3d3d" />
-  <img src="https://img.shields.io/badge/NUMPY-1.26-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=3d3d3d" />
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=3d3d3d" />
+  <img src="https://img.shields.io/badge/PANDAS-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=3d3d3d" />
+  <img src="https://img.shields.io/badge/NUMPY-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=3d3d3d" />
   <img src="https://img.shields.io/badge/SCIKIT--LEARN-1.4-F7931E?style=flat-square&logo=scikit-learn&logoColor=white&labelColor=3d3d3d" />
   <img src="https://img.shields.io/badge/PYTORCH-2.3-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&labelColor=3d3d3d" />
 </p>
